@@ -1,1 +1,1 @@
-From quay.io/k8scsi/csi-provisioner:v1.6.0
+From k8s.gcr.io/sig-storage/csi-provisioner:v2.0.4
